@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzAVwgLi4ytNG1YdmrBg8T8B5NBaH7mbpLEXG8xtrg9RJ3n8DQDaP+kSi2fWgvBQDWyaOk3+SZz1/DLDJCaqMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zerotonyq\\Desktop\\Фолдерс\\BackendStudy\\MEGAPETPROJECT\\PP.Infrastucture\\PP.Infrastucture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-preview.4.24266.19\\microsoft.extensions.configuration.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.4.24266.19\\microsoft.extensions.configuration.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.0-preview.4.24266.19\\microsoft.extensions.configuration.binder.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.4.24266.19\\microsoft.extensions.dependencyinjection.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.4.24266.19\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.4.24266.19\\microsoft.extensions.options.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.0-preview.4.24266.19\\microsoft.extensions.options.configurationextensions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.4.24266.19\\microsoft.extensions.primitives.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\riok.mapperly\\3.6.0-next.2\\riok.mapperly.3.6.0-next.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@MEGAPETPROJECT_HostAddress = http://localhost:5036
+
+GET {{MEGAPETPROJECT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

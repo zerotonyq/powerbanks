@@ -1,0 +1,12 @@
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\bin\Debug\net8.0\PP.Shared.deps.json
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\bin\Debug\net8.0\PP.Shared.dll
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\bin\Debug\net8.0\PP.Shared.pdb
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\PP.Shared.csproj.AssemblyReference.cache
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\PP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\PP.Shared.AssemblyInfoInputs.cache
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\PP.Shared.AssemblyInfo.cs
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\PP.Shared.csproj.CoreCompileInputs.cache
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\PP.Shared.dll
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\refint\PP.Shared.dll
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\PP.Shared.pdb
+C:\Users\zerotonyq\Desktop\Фолдерс\BackendStudy\MEGAPETPROJECT\PP.Shared\obj\Debug\net8.0\ref\PP.Shared.dll

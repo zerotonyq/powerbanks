@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLunY/wOXB/jwM7QsjWSspbCiOQmw/DPyPzTYvXzm3ncGo5OkV4pN0SWMO9QbV32tIkNnnJOYuLOghcOe4X+Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zerotonyq\\Desktop\\Фолдерс\\BackendStudy\\MEGAPETPROJECT\\PP.Domain\\PP.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-preview.4.24266.19\\microsoft.extensions.configuration.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.4.24266.19\\microsoft.extensions.configuration.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.4.24266.19\\microsoft.extensions.dependencyinjection.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.4.24266.19\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.4.24266.19\\microsoft.extensions.primitives.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\zerotonyq\\.nuget\\packages\\riok.mapperly\\3.6.0-next.2\\riok.mapperly.3.6.0-next.2.nupkg.sha512"
+  ],
+  "logs": []
+}
